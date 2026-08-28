@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/774-database-migration-governance-ci",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/774-database-migration-governance-ci": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/774-database-migration-governance-ci",
+    "origin"
+  ]
+}
